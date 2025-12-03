@@ -2,7 +2,7 @@ package com.restapiproject.hotelMgmt.controller;
 
 public class FeatureController {
 	String name;
-
+    String address;
 	public FeatureController(String name) {
 		super();
 		this.name = name;
